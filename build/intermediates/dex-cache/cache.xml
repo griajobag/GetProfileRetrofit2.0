@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_9fb1550a70e9b06e0aa0ecce3b227f3a5c9fb04b/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_dbe167b8c0e74ab00dfb5b6f4f95f9acf6e6fa9f/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.2/43eeae0b9fb087bb3194ba59ab63a38a32fbf3e/retrofit-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="043eeae0b9fb087bb3194ba59ab63a38a32fbf3e">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.2_5e19714419be6e4ae8f0f2efabbfa769124c8052/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_2948f90febdd0170bd38ba4e8f2fb1f114227317/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b62ee7bb55bde155636e28b2be13370e351a990d">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_14ca364885c3393a2ad3b22d4a126bc7550ea4fc/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_e7692638c5d048047a0222548e3e3212f130a915/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_76bdc675a1d973e06b7666c033752f21f4c086b8/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_f144da1289b610ac51cee8be7d60402965f653f3/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.2/f8d87f15b94b8d74e7ccf61d7eedb558811cdb30/converter-gson-2.0.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f8d87f15b94b8d74e7ccf61d7eedb558811cdb30">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.2_e1ae37d5de880dc7762d4a2fe937c6fdfab187ff/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_7605ab99a617bc133d858de2ca10ffba991ba228/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fd090c5d74478dc9d9bcf02f245bba61dfc6cd2e">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_49d60171059b43a49a5f730d013bb60f75b5fa8a/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_8952e13723b6c65daf635b10dadbc8fb48b89010/classes.dex" />
+    </item>
+    <item
+        jar="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/putuguna/AndroidStudioProjects/Retrofit2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_08ce451461b7753586e0c1d0d80ea5ad59f5c50d/classes.dex" />
+    </item>
+
+</items>
